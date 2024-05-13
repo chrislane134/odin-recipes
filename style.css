@@ -1,0 +1,37 @@
+
+
+.main{
+    font-size: 56px;
+    color: whitesmoke;
+    background-color: black;
+    text-align: center;
+    
+}
+
+.unlist{
+    text-align: center;
+    list-style-type: none;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    background-color: bisque;
+}
+
+h3{
+    background-color: black;
+    color:whitesmoke;
+    font-size: 30px;
+}
+
+h4{
+    text-decoration:underline;
+}
+.pics{
+    margin-left: 25%;
+}
+
+.orlist{
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
